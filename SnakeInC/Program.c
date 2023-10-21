@@ -1,7 +1,7 @@
-#include <stdio.h>;
-#include <time.h>;
-#include <Windows.h>;
-#include "heads.h";
+#include <stdio.h>
+#include <time.h>
+#include <Windows.h>
+#include "heads.h"
 
 
 const lengthOfBoard = 25;
